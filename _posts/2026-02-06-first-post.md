@@ -16,7 +16,7 @@ tags: [aws, saa, cloud, certification]
 
 <br/>
 
-## 🤔 왜 AWS SAA를 선택했나
+## 왜 AWS SAA를 선택했나
 
 그동안 AWS를 단편적으로만 접해왔고,  
 서비스를 “써본 적은 있지만 설계 관점에서는 잘 모른다”는 느낌이 계속 들었습니다.
@@ -29,7 +29,7 @@ AWS 기반 아키텍처를 직접 설계하고 판단할 수 있는 개발자가
 
 <br/>
 
-## 📚 공부 방법
+## 공부 방법
 
 ### 사용한 자료
 <img width="1441" height="834" alt="AWS_SAA_Udemy" src="https://github.com/user-attachments/assets/fc364513-5d43-47f7-bbf8-3a0714a8e46e" />
@@ -50,7 +50,7 @@ AWS 기반 아키텍처를 직접 설계하고 판단할 수 있는 개발자가
 
 <br/>
 
-## 🧠 시험 난이도 & 체감
+## 시험 난이도 & 체감
 
 - 문제 길이는 전반적으로 짧은 편
 - 암기보다는 **상황 판단형 문제**가 많은편
@@ -68,7 +68,7 @@ AWS 기반 아키텍처를 직접 설계하고 판단할 수 있는 개발자가
 
 <br/>
 
-## 🚀 앞으로의 계획
+## 앞으로의 계획
 
 - AWS SAP (Solutions Architect – Professional) 도전
 - 이번에 정리한 AWS 기초 지식을  
